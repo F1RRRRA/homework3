@@ -1,0 +1,5 @@
+E:/desktop/otus/homework3/build/CMakeFiles/check_value.dir
+E:/desktop/otus/homework3/build/CMakeFiles/random_value.dir
+E:/desktop/otus/homework3/build/CMakeFiles/game.dir
+E:/desktop/otus/homework3/build/CMakeFiles/ALL_BUILD.dir
+E:/desktop/otus/homework3/build/CMakeFiles/ZERO_CHECK.dir
